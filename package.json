@@ -93,7 +93,7 @@
     "@types/redux-persist": "^4.3.1",
     "@types/testing-library__user-event": "^4.2.0",
     "@types/wavesurfer.js": "^6.0.12",
-    "@typescript-eslint/eslint-plugin": "^7.18.0",
+    "@typescript-eslint/eslint-plugin": "^8.40.0",
     "@typescript-eslint/parser": "^7.18.0",
     "@vitejs/plugin-react": "^4.6.0",
     "@vitest/coverage-v8": "^3.2.4",
