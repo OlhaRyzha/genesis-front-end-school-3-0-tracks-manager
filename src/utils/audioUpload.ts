@@ -28,7 +28,7 @@ export async function validateAudioFile(
   }
 
   if (file.size === 0) {
-    return R.Error(validationMessages.emty);
+    return R.Error(validationMessages.empty);
   }
 
   if (!ALLOWED_MIME_TYPES.includes(file.type)) {

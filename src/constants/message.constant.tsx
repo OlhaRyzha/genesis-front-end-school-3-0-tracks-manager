@@ -15,7 +15,7 @@ export const validationMessages = {
   url: 'Please enter a valid URL starting with http:// or https://.',
   fileExtension:
     'Only supported image formats are allowed (.jpg, .jpeg, .png, .webp, .gif).',
-  emty: 'This field cannot be empty.',
+  empty: 'This field cannot be empty.',
   unsupportedFormat:
     'Unsupported audio format. Please use a standard format such as .mp3 or .wav.',
   selectAtLeastOne: 'You must select at least one genre to continue.',
